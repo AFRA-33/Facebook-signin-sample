@@ -1,0 +1,108 @@
+h1,h3,p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head {
+    background-color: rgb(7, 72, 121);
+    color: white;
+    /* border: 2px solid red; */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0;
+    padding: 0;
+}
+.facebook{
+    margin-top: 5px;
+    margin-left: 20px;
+    /* border: 2px solid purple; */
+    margin-bottom: 5px;
+}
+form{
+    margin-left: 250px;
+    /* border: 2px solid black; */
+    display: flex;
+    padding: -20px;
+}
+p{
+    /* border: 2px solid green; */
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0px;
+    justify-content: space-between;
+}
+.first{
+    /* border: 2px solid orange; */
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.forgot{
+    color: gray;
+    margin: 2px;
+   
+}
+.img{
+    /* border: 2px solid orange; */
+    display: flex;
+   height: 550px;
+}
+
+#left{
+    /* border: 2px solid blue; */
+    width: 60%;
+    text-align: center;
+    
+}
+#right{
+    /* border: 2px solid greenyellow; */
+    text-align: start;
+    margin: 0px;
+    padding: 0%;
+    width: 40%;
+}
+.left img{
+    border: 2px solid olivedrab;
+    
+}.box{
+    /* border: 2px solid rgb(255, 47, 151); */
+    margin: 5px;
+    padding: 5px;
+    /* width: 260px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name{
+    display: flex;
+}
+#ques{
+    color: rgb(7, 72, 121) ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.lines{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin: 5px;
+    padding: 5px;
+}
+#sign{
+    margin: 5px;
+    padding: 5px;
+}
+#thumb{
+    text-align: center;
+   padding: 120px;
+    /* border: 2px solid black; */
+    padding-right: 200px;
+    padding-bottom: 5px;
+    padding-top: 90px;
+    padding-left: 200px;
+}
+#thank{
+    color: rgb(7, 72, 121);
+}
+.maincontainer{
+    margin: auto;
+    padding: 5px;
+}
